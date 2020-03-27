@@ -34,7 +34,7 @@ class Routes extends React.Component {
             options={{
               title: false,
               headerTransparent: true,
-              headerTintColor: 'white',
+              headerTintColor: 'black',
             }}
             name="Main"
             component={Main}
